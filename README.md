@@ -1,2 +1,1 @@
-# way
-Wave - Roblox Executor for PC. Wave is able to run any script on the market that you may throw at it.
+Wave Roblox Executor – a powerful and reliable tool for executing scripts in Roblox. With Wave Executor, you gain access to unique features that make gameplay more exciting and personalized. This executor supports the latest versions of Roblox, ensuring stable performance and fast script execution. Wave Roblox Executor is perfect for both beginners and advanced users, offering a simple interface and extensive customization options. Download Wave Executor for free and unlock new possibilities in Roblox! Safety, convenience, and performance – all in one tool. Elevate your Roblox experience with Wave Executor today!
